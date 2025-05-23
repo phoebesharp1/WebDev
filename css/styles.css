@@ -1,0 +1,25 @@
+
+
+.navImage2 {
+    
+    background-image: url(../assets/pexels-md-abdul-halim-1073811-2333293.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+.lead {
+    color: white;
+}
