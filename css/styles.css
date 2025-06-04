@@ -23,3 +23,33 @@ footer {
 .lead {
     color: white;
 }
+
+
+
+/* Common styling */
+select {
+    padding: 5px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    width: 100%;
+  }
+  
+  /* TO DO */
+  .status-todo {
+    background-color: #e0c9f7;
+    color: #4b007d;
+  }
+  
+  /* IN PROGRESS */
+  .status-progress {
+    background-color: #ffd59e;
+    color: #8a4700;
+  }
+  
+  /* COMPLETED */
+  .status-complete {
+    background-color: #a6f0a6;
+    color: #065f0d;
+  }
+  
